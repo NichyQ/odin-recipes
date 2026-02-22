@@ -1,3 +1,4 @@
+/* Home page */
 body {
     font-family: 'Times New Roman', Times, serif;
     background-color: #FFF1D0;
@@ -31,8 +32,55 @@ body {
     padding: 0;
     margin: 0;
 }
+/* recipe pages */
+.dish-title,
+.main-content-headers{
+    background-color: #086788;
+    color: #FFF1D0;
+    text-align: center;
+    width: 400px;
+    padding: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 16px;
+}
 
-.recipe {
-    background-color: teal;
-    margin:10px
+.sub-content-headers {
+    text-align: center;
+    background-color: #086788;
+    color: #FFF1D0;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 16px
+}
+
+.description {
+    text-align: center;
+}
+
+.ingred-equip {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+#nutrition {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    text-align: center;
+}
+
+.step-container {
+    text-align: center;
+}
+
+.centered-lists {
+    display: inline-block;
+    text-align: left;
 }
