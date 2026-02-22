@@ -1,0 +1,33 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #FFF1D0;
+    margin: 0px;
+}
+
+.title {
+    background-color: #F0C808;
+    color: #FFF1D0;
+    border: 20px solid black;
+    padding: 25px;
+    border: 0px;
+    margin: 0px;
+    text-align: center;
+}
+
+.subhead {
+    background-color: #086788;
+    color: #FFF1D0;
+    text-align: center;
+    width: 400px;
+    border-radius: 16px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
