@@ -14,7 +14,7 @@ body {
     text-align: center;
 }
 
-.subhead {
+.food-lists{
     background-color: #086788;
     color: #FFF1D0;
     text-align: center;
@@ -25,9 +25,14 @@ body {
     margin-right: auto;
 }
 
-ul {
+.dish {
     list-style-type: none;
     text-align: center;
     padding: 0;
     margin: 0;
+}
+
+.recipe {
+    background-color: teal;
+    margin:10px
 }
